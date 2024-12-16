@@ -129,14 +129,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 
 ---
-
-### Key Sections:
-1. **Introduction**: Provides an overview of triangular arbitrage and what the code does.
-2. **Prerequisites**: Lists the dependencies and how to install them.
-3. **How to Run the Code**: Instructions on how to run the Python script.
-4. **Code Walkthrough**: A brief explanation of each function in the script.
-5. **Sample Output**: Shows what users can expect when they run the code.
-6. **Future Enhancements**: Ideas for expanding the project, such as adding real-time data or notifications.
-7. **License**: Information on the licensing for the project.
-
-This **README** can be placed in the root directory of your project, and it will help users understand how to use the tool and what to expect from it. Let me know if you need any changes!
